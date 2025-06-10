@@ -29,7 +29,7 @@ import warnings
 warnings.filterwarnings('ignore')
 %matplotlib inline
 # Load Dataset from github repository
-df = pd.read_csv("https://raw.githubusercontent.com/Apaulgithub/oibsip_taskno4/main/spam.csv", encoding='ISO-8859-1')
+df = pd.read_csv("https://github.com/harikagundla/miniproject/blob/main/spam.csv", encoding='ISO-8859-1')
 
 # Dataset First Look
 # View top 5 rows of the dataset
